@@ -1,3 +1,3 @@
 <?php
-Echo "<H1> -Practica2-</H1>"
+Echo "<H1> -Practica2- holis-</H1>"
 ?>
